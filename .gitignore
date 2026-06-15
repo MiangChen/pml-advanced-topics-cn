@@ -1,0 +1,6 @@
+# 不上传原书 PDF 全文（版权）
+*.pdf
+
+# 临时渲染文件
+figs/*_raw*.png
+.DS_Store
