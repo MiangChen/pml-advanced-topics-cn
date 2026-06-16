@@ -1,35 +1,36 @@
 # PML Advanced Topics —— 中文双版本
 
-本仓库是 Kevin P. Murphy **《Probabilistic Machine Learning: Advanced Topics》** (MIT Press, 2023) 第四部分**「生成模型」(第 20–26 章)** 的中文整理，提供**两种风格**，各放一个文件夹：
+本仓库是 Kevin P. Murphy **《Probabilistic Machine Learning: Advanced Topics》** (MIT Press, 2023) 的中文整理，并提供两种翻译风格，适合对 AI 感兴趣者、入门研究人员参考。
 
-| 文件夹 | 风格 | 适合 |
-|---|---|---|
-| [`类比助理解版/`](类比助理解版/) | **乐高积木式重写讲解**——零术语起步、打比方、补直觉、一块块拼出全貌（公式 1:1、知识点 100% 不丢） | 想真正"看懂"概念 |
+- **原著**：Kevin P. Murphy, *Probabilistic Machine Learning: Advanced Topics*, MIT Press, 2023.
+- 原书主页与 PDF：<https://probml.github.io/pml-book/book2.html>
+
+
+
+两个翻译风格如下图所示：
+
+| 文件夹                           | 风格                                                         | 适合                     |
+| -------------------------------- | ------------------------------------------------------------ | ------------------------ |
+| [`类比助理解版/`](类比助理解版/) | **乐高积木式重写讲解**——零术语起步、打比方、补直觉、一块块拼出全貌（公式 1:1、知识点 100% 不丢） | 想真正"看懂"概念         |
 | [`信达雅翻译版/`](信达雅翻译版/) | **忠实翻译**——恪守严复「信达雅」，原文结构/表格/图/公式/脚注原封不动按原位保留，不增删发挥 | 想读"作者用中文写的原文" |
 
-> 两者是互补的：一个负责"讲懂"，一个负责"忠实呈现"。
+![image-20260616144958198](/home/ubuntu/.config/Typora/typora-user-images/image-20260616144958198.png)
 
-## 进度
 
-- **类比助理解版**：第 20–26 章全部 36 个小节已完成（37 份正文）。
-- **信达雅翻译版**：进行中——已完成 §20.1、20.2、20.3、20.4。
 
 ## 阅读方式
 
-- 含 LaTeX 公式，建议用支持数学渲染的阅读器：**Typora / Obsidian / VS Code(Markdown+Math)**。
-- 各文件夹有自己的 `figs/` 存放插图。
+- 含 LaTeX 公式，建议用支持数学渲染的阅读器：**Typora （作者推荐 Typora）/ Obsidian / VS Code(Markdown+Math)**。
+
+
 
 ## 风格规范
 
 - 乐高讲解风格：[`类比助理解版/_风格规范_STYLE.md`](类比助理解版/_风格规范_STYLE.md)
 - 信达雅翻译风格：见 Claude 技能 `accurate-translator`（忠实原文、通顺明白、选词得体；表格图片原封不动）。
 
-## 参考文献
 
-各小节中的引用（如 [Goo+14]）均以超链接指向 [`reference.md`](reference.md) 中对应的文献条目（目前收录被引用的 398 条）。
 
-## 出处与版权
+## 版权
 
-- **原著**：Kevin P. Murphy, *Probabilistic Machine Learning: Advanced Topics*, MIT Press, 2023.
-- 原书主页与 PDF：<https://probml.github.io/pml-book/book2.html>
-- 原书采用 **CC-BY-NC-ND 4.0** 许可。本仓库为学习用途的中文笔记，**不包含原书 PDF 全文**，所有权利归原作者所有。如原作者或出版方认为不妥，请联系删除。
+- 原书采用 **CC-BY-NC-ND 4.0** 许可。本仓库为学习用途的中文笔记，**不包含原书 PDF 全文**，所有权利归原作者所有。
