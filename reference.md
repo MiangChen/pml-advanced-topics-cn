@@ -1,6 +1,6 @@
 # 参考文献（References）
 
-> 本文件汇总各翻译/讲解中引用到的文献条目（共 401 条，取自原书参考文献）。各小节引用以超链接指向此处。
+> 本文件汇总各翻译/讲解中引用到的文献条目（共 402 条，取自原书参考文献）。各小节引用以超链接指向此处。
 
 
 ---
@@ -624,6 +624,10 @@
 
 <a id="Iso+17"></a>
 **[Iso+17]** P. Isola, J.-Y. Zhu, T. Zhou, and A. A. Efros. “Image-to-Image Translation with Conditional Adversarial Networks”. In: CVPR. 2017.
+
+
+<a id="Jan18"></a>
+**[Jan18]** E. Jang. Normalizing Flows Tutorial. https://blog.evjang.com/2018/01/nf1.html. 2018.
 
 
 <a id="Ji+22"></a>
