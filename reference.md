@@ -1,7 +1,6 @@
 # 参考文献（References）
 
-> 本文件汇总了本仓库各翻译/讲解中引用到的文献条目（共 398 条，取自原书 Kevin Murphy《PML: Advanced Topics》参考文献）。
-> 各小节中的引用（如 [Goo+14]）均以超链接指向此处对应条目。
+> 本文件汇总各翻译/讲解中引用到的文献条目（共 401 条，取自原书参考文献）。各小节引用以超链接指向此处。
 
 
 ---
@@ -543,6 +542,10 @@
 **[Heu+17b]** M. Heusel, H. Ramsauer, T. Unterthiner, B. Nessler, and S. Hochreiter. “Gans trained by a two time-scale update rule converge to a local nash equilibrium”. In: Advances in neural information processing systems. 2017, pp. 6626–6637.
 
 
+<a id="Hig+17a"></a>
+**[Hig+17a]** I. Higgins, L. Matthey, A. Pal, C. Burgess, X. Glorot, M. Botvinick, S. Mohamed, and A. Lerchner. “beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework”. In: ICLR. 2017.
+
+
 <a id="Hin02"></a>
 **[Hin02]** G. E. Hinton. “Training products of experts by minimizing contrastive divergence”. en. In: Neural Computation 14.8 (2002), pp. 1771–1800. BIBLIOGRAPHY
 
@@ -865,6 +868,10 @@
 
 <a id="Mao+17"></a>
 **[Mao+17]** X. Mao, Q. Li, H. Xie, R. Y. K. Lau, Z. Wang, and S. P. Smolley. “Least Squares Generative Adversarial Networks”. In: ICCV. 2017.
+
+
+<a id="MB16"></a>
+**[MB16]** Y. Miao and P. Blunsom. “Language as a Latent Variable: Discrete Generative Models for Sentence Compression”. In: EMNLP. 2016.
 
 
 <a id="MB21"></a>
@@ -1313,6 +1320,10 @@
 
 <a id="SSA18"></a>
 **[SSA18]** K. Shmelkov, C. Schmid, and K. Alahari. “How good is my GAN?” In: Proceedings of the European Conference on Computer Vision (ECCV). 2018, pp. 213–229.
+
+
+<a id="SSB17"></a>
+**[SSB17]** S. Semeniuta, A. Severyn, and E. Barth. “A Hybrid Convolutional Variational Autoencoder for Text Generation”. In: (2017). arXiv: 1702.02390 [cs.CL].
 
 
 <a id="SSG18a"></a>
