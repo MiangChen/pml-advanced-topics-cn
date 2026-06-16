@@ -24,6 +24,10 @@
 - 乐高讲解风格：[`类比助理解版/_风格规范_STYLE.md`](类比助理解版/_风格规范_STYLE.md)
 - 信达雅翻译风格：见 Claude 技能 `accurate-translator`（忠实原文、通顺明白、选词得体；表格图片原封不动）。
 
+## 参考文献
+
+各小节中的引用（如 [Goo+14]）均以超链接指向 [`reference.md`](reference.md) 中对应的文献条目（目前收录被引用的 398 条）。
+
 ## 出处与版权
 
 - **原著**：Kevin P. Murphy, *Probabilistic Machine Learning: Advanced Topics*, MIT Press, 2023.
